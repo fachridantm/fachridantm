@@ -9,10 +9,9 @@ I have many soft skills and other important qualities which I developed through 
 
 ## Find me on another platform!  
 
-[<img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png">](https://www.linkedin.com/in/fachridantm/)
-[<img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">](https://www.instagram.com/fachridantm/)
-<a href="https://gitlab.com/fachridantm/"><code title="GitLab" alt="GitLab"><img width="24px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"/></a></code>
-<!-- [<img align="left" alt="GitLab" width="24px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png">](https://gitlab.com/fachridantm/) -->
+<a href="https://www.linkedin.com/in/fachridantm/"><code title="LinkedIn" alt="LinkedIn"><img width="32px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></a></code>
+<a href="https://www.instagram.com/fachridantm/"><code title="Instagram" alt="Instagram"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a></code>
+<a href="https://gitlab.com/fachridantm/"><code title="GitLab" alt="GitLab"><img width="32px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"></a></code>
 
 
 
