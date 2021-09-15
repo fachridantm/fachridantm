@@ -21,7 +21,7 @@ I have many soft skills and other important qualities which I developed through 
   <code title="Twitter" alt="Twitter"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></code>
 </a>
 <a href="https://www.sololearn.com/profile/15468256">
-  <code title="SoloLearn" alt="SoloLearn"><img width="32px" src="https://w7.pngwing.com/pngs/243/80/png-transparent-sololearn-computer-programming-android-android-text-logo-code.png"></code>
+  <code title="SoloLearn" alt="SoloLearn"><img width="32px" src="https://blob.sololearn.com/avatars/sololearn.png"></code>
 </a>
 <a href="https://gitlab.com/fachridantm/">
   <code title="GitLab" alt="GitLab"><img width="32px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"></code>
