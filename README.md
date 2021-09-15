@@ -5,7 +5,7 @@ Welcome to my Codepark 🏡
 
 I'm an undergraduate student currently in 5th semester with an Informatics major and interested in **Android Software Development**.  
 
- <div style="text-align: justify"> I have many soft skills and other important qualities which I developed through study, organization, community, and various other experiences through teamwork and collaboration. Communication, team leader, time management, and the ability to complete projects within deadlines, are some of the skills I excel at. In addition, I also have high self-confidence and a high desire to improve myself and learn other new experiences. </div>  
+ <p><div style="text-align: justify"> I have many soft skills and other important qualities which I developed through study, organization, community, and various other experiences through teamwork and collaboration. Communication, team leader, time management, and the ability to complete projects within deadlines, are some of the skills I excel at. In addition, I also have high self-confidence and a high desire to improve myself and learn other new experiences. </div></p>
 **Core Skills** : Java Programming, Communication, Public Speaking  
 
 ## Find me on another platform!  
