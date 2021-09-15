@@ -26,13 +26,12 @@ I have many soft skills and other important qualities which I developed through 
 <a href="https://gitlab.com/fachridantm/">
   <code title="GitLab" alt="GitLab"><img width="32px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"></code>
 </a>
----
 
 <!-- <details>
     <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#3](https://github.com/Dadangdut33/Screen-Translate/issues/3) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate) -->
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity--> 
 <!--
 **fachridantm/fachridantm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
