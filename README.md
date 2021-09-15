@@ -1,6 +1,7 @@
-# Hi there <a href="https://mfahmialkautsar.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi Folks! <a href="https://fachridantm.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+Welcome to my Codepark 🏡
 
-## Find me on
+## Find me on another platform!
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="24px"
     src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />](https://www.linkedin.com/in/fachridantm/)
