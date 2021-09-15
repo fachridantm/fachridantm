@@ -14,7 +14,7 @@ I have many soft skills and other important qualities which I developed through 
 <a href="https://www.instagram.com/fachridantm/">
   <code title="Instagram" alt="Instagram"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a></code>
 <a href="https://gitlab.com/fachridantm/">
-  <code title="GitLab" alt="GitLab"><img width="48px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"></a></code>
+  <code title="GitLab" alt="GitLab"><img width="32px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"></a></code>
 
 
 
