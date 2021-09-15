@@ -11,19 +11,19 @@ I have many soft skills and other important qualities which I developed through 
 
 ## Find me on another platform!  
 
-<a href="https://www.linkedin.com/in/fachridantm/">
+<a style="text-decoration: none" href="https://www.linkedin.com/in/fachridantm/">
   <code title="LinkedIn" alt="LinkedIn"><img width="32px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></code>
 </a>
-<a href="https://www.instagram.com/fachridantm/">
+<a style="text-decoration: none" href="https://www.instagram.com/fachridantm/">
   <code title="Instagram" alt="Instagram"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></code>
 </a>
-<a href="https://twitter.com/fachridantm">
+<a style="text-decoration: none" href="https://twitter.com/fachridantm">
   <code title="Twitter" alt="Twitter"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></code>
 </a>
-<a href="https://www.sololearn.com/profile/15468256">
+<a style="text-decoration: none" href="https://www.sololearn.com/profile/15468256">
   <code title="SoloLearn" alt="SoloLearn"><img width="32px" src="https://pbs.twimg.com/profile_images/1410707398021550084/MmGTT4dY_400x400.jpg"></code>
 </a>
-<a href="https://gitlab.com/fachridantm/">
+<a style="text-decoration: none" href="https://gitlab.com/fachridantm/">
   <code title="GitLab" alt="GitLab"><img width="32px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"></code>
 </a>
 
