@@ -1,10 +1,10 @@
-# Hi Folks! <a href="https://fachridantm.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi Folks! <a href="https://fachridantm.github.io" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Welcome to my Codepark 🏡
 
 ## Find me on another platform!
 
-[<img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />](https://www.linkedin.com/in/fachridantm/)
-[<img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/fachridantm/)
+[<a href="https://www.linkedin.com/in/fachridantm/" target="_blank"><img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></a>]
+[<a href="https://www.instagram.com/fachridantm/" target="_blank"><img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a>]
 <!--
 **fachridantm/fachridantm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
