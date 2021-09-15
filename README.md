@@ -11,7 +11,7 @@ I have many soft skills and other important qualities which I developed through 
 
 [<img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png">](https://www.linkedin.com/in/fachridantm/)
 [<img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">](https://www.instagram.com/fachridantm/)
-[<img align="left" alt="GitLab" width="24px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png">](https://gitlab.com/fachridantm/)
+[<img align="left" alt="GitLab" width="32px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png">](https://gitlab.com/fachridantm/)
 
 
 
