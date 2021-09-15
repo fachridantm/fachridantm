@@ -1,4 +1,4 @@
-# Hi Folks! <a href="https://fachridantm.github.io" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">](https://fachridantm.github.io/){:target="_blank"}
 Welcome to my Codepark 🏡
 
 ## Find me on another platform!
