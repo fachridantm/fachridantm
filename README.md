@@ -3,8 +3,8 @@ Welcome to my Codepark 🏡
 
 ## Find me on another platform!
 
-[<a href="https://www.linkedin.com/in/fachridantm/" target="_blank"><img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></a>]
-[<a href="https://www.instagram.com/fachridantm/" target="_blank"><img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a>]
+<a href="https://www.linkedin.com/in/fachridantm/" target="_blank"><img align="left" alt="LinkedIn" width="24px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></a>
+<a href="https://www.instagram.com/fachridantm/" target="_blank"><img align="left" alt="Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a>
 <!--
 **fachridantm/fachridantm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
