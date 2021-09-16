@@ -8,7 +8,7 @@ I have many soft skills and other important qualities which I developed through 
 
 **Core Skills** : Android, Java, Kotlin 
 
-[![Fachridan Tio Mua'afa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=onedark)]
+[Fachridan Tio Mua'afa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight)]
 
 
 
