@@ -8,9 +8,10 @@ I have many soft skills and other important qualities which I developed through 
 
 **Core Skills** : Android, Java, Kotlin 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight)](https://github.com/fachridantm)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight)](https://camo.githubusercontent.com/57f658df354e633b2fb20fa2336c48cd7297209e7e83333232bd83e8f9169448/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66616368726964616e746d2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=6&layout=compact&theme=tokyonight)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight)]()
 
 
 ## Find me on another platform!
