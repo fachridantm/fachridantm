@@ -1,0 +1,31 @@
+
+# Created by httpswww.toptal.comdevelopersgitignoreapiwindows
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=windows
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.dbencryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN
+
+# Windows Installer files
+.cab
+.msi
+.msix
+.msm
+.msp
+
+# Windows shortcuts
+.lnk
+
+# End of httpswww.toptal.comdevelopersgitignoreapiwindows
