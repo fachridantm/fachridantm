@@ -13,7 +13,7 @@ I have many soft skills and other important qualities which I developed through 
 <!-- Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=6&layout=compact&theme=tokyonight)](https://camo.githubusercontent.com/bcdc97baa1a7c46456ecdb707fcfc25df2024862a2c5f3103ed5ecb47056d13e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d66616368726964616e746d266c616e67735f636f756e743d36266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874)
 <!-- Wakatime -->
-[![Fachridan Tio Mu'afa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight)]()
+<!-- [![Fachridan Tio Mu'afa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight)]() -->
 
 
 ## Find me on another platform!
