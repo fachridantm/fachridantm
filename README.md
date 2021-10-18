@@ -18,7 +18,7 @@ I have many soft skills and other important qualities which I developed through 
 
 ---
 
-<!-- ## Top Repositories
+## Top Repositories
 <a href="https://github.com/fachridantm/Dicoding-AndroidPemula">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&theme=tokyonight" />
 </a>  
@@ -29,7 +29,7 @@ I have many soft skills and other important qualities which I developed through 
 <br>
 <a href="https://github.com/fachridantm/Asymmetric-Crypto-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&theme=tokyonight" />
-</a> -->
+</a>
 
 ## Find me on another platform!
 
