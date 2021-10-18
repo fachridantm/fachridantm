@@ -19,8 +19,8 @@ I have many soft skills and other important qualities which I developed through 
     <!-- Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
     <!-- Wakatime -->
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&theme=tokyonight" alt="fachridantm's Coding Activity">
-</p> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity">
+</p>
 
 ---
 
