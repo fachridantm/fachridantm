@@ -6,24 +6,30 @@ I'm an undergraduate student currently in 5th semester with an Informatics major
 
 I have many soft skills and other important qualities which I developed through study, organization, community, and various other experiences through teamwork and collaboration. Communication, leadership, time management, and the ability to complete projects within deadlines, are some of the skills I excel at. In addition, I also have high self-confidence and a high desire to improve myself and learn other new experiences.  
 
-**Core Skills** : Android, Java, Kotlin 
+**Core Skills** : Android, Java, Kotlin  
+
+---
+    
+| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
+| ------------- | ------------- |  
+
+| <img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity"> 
+| ------------- |
 
 ---
 
-
-<p align="center">
-    <!-- Github Stats -->
-    <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&count_private=true" alt="fachridantm's GitHub Stats">
-    <!-- Languages -->
-    <img align="center" width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
-</p>
-<p align="center">
-    <!-- Wakatime -->
-    <img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity">
-</p>
-
----
-
+<!-- ## Top Repositories
+<a href="https://github.com/fachridantm/Dicoding-AndroidPemula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&theme=tokyonight" />
+</a>  
+<a href="https://github.com/fachridantm/Smart-Villager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&theme=tokyonight" />
+</a>
+<br>
+<br>
+<a href="https://github.com/fachridantm/Asymmetric-Crypto-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&theme=tokyonight" />
+</a> -->
 
 ## Find me on another platform!
 
