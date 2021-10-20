@@ -13,7 +13,7 @@ I have many soft skills and other important qualities which I developed through 
 | <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
 | ------------- | ------------- |  
 
-| <img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity"> 
+| <a href="https://wakatime.com/@fachridantm"><img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity" /></a>
 | ------------- |
 
 ---
