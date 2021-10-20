@@ -21,12 +21,15 @@ I have many soft skills and other important qualities which I developed through 
 ## Top Repositories
 <a href="https://github.com/fachridantm/Dicoding-AndroidPemula">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=tokyonight" />
-</a>  
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/fachridantm/Smart-Villager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=tokyonight" />
 </a>
+
 <br>
 <br>
+
 <a href="https://github.com/fachridantm/Asymmetric-Crypto-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&show_icons=true&theme=tokyonight" />
 </a>
