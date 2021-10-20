@@ -13,7 +13,7 @@ I have many soft skills and other important qualities which I developed through 
 | <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
 | ------------- | ------------- |  
 
-| <a target="_blank" href="https://wakatime.com/@fachridantm"><img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity" /></a>
+| <a href="https://wakatime.com/@fachridantm"><img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity" /></a>
 | ------------- |
 
 ---
@@ -36,13 +36,13 @@ I have many soft skills and other important qualities which I developed through 
 
 ## Find me on another platform!
 
-<a target="_blank" href="https://www.linkedin.com/in/fachridantm/">
+<a href="https://www.linkedin.com/in/fachridantm/">
   <code title="LinkedIn" alt="LinkedIn"><img width="32px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></a></code>
-<a target="_blank" href="https://www.instagram.com/fachridantm/">
+<a href="https://www.instagram.com/fachridantm/">
   <code title="Instagram" alt="Instagram"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></a></code>
-<a target="_blank" href="https://www.sololearn.com/profile/15468256">
+<a href="https://www.sololearn.com/profile/15468256">
   <code title="SoloLearn" alt="SoloLearn"><img width="32px" src="https://pbs.twimg.com/profile_images/1410707398021550084/MmGTT4dY_400x400.jpg"></a></code>
-<a target="_blank" href="https://gitlab.com/fachridantm/">
+<a href="https://gitlab.com/fachridantm/">
   <code title="GitLab" alt="GitLab"><img width="32px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"></a></code>
 
 <!-- <details>
