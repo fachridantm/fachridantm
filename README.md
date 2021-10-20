@@ -13,26 +13,17 @@ I have many soft skills and other important qualities which I developed through 
 | <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
 | ------------- | ------------- |  
 
-| <a href="https://wakatime.com/@fachridantm"><img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity" /></a>
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity">](https://wakatime.com/@fachridantm)
 | ------------- |
 
 ---
 
 ## Top Repositories
-<a href="https://github.com/fachridantm/Dicoding-AndroidPemula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=tokyonight" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/fachridantm/Smart-Villager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=tokyonight" />
-</a>
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=tokyonight">](https://github.com/fachridantm/Dicoding-AndroidPemula)
+&nbsp;
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=tokyonight">](https://github.com/fachridantm/Smart-Villager)
 
-<br>
-<br>
-
-<a href="https://github.com/fachridantm/Asymmetric-Crypto-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&show_icons=true&theme=tokyonight" />
-</a>
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&show_icons=true&theme=tokyonight">](https://github.com/fachridantm/Asymmetric-Crypto-App)
 
 ## Find me on another platform!
 
