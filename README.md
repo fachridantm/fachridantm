@@ -1,10 +1,11 @@
 # Hello Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">](https://fachridantm.github.io/)
-Welcome to my Codepark 🏡  
 
-## Introduction
-I'm an undergraduate student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) currently in 5th semester with an Informatics major and interested in **Mobile Apps Development**.  
+### My name is Fachridan Tio Mu'afa 
+I'm an _undergraduate student_ at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) currently in 5th semester with an _Informatics_ major and interested in **Mobile Apps Development**.  
 
 I have many soft skills and other important qualities which I developed through study, organization, community, and various other experiences through teamwork and collaboration. Communication, leadership, time management, and the ability to complete projects within deadlines, are some of the skills I excel at. In addition, I also have high self-confidence and a high desire to improve myself and learn other new experiences.  
+
+#### Welcome to my Codepark! 🏡
 
 ## Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
@@ -13,9 +14,9 @@ I have many soft skills and other important qualities which I developed through 
   <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
   <img src="https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg">
-  
+
 ---
-    
+  
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
 | ------------- | ------------- |  
 
