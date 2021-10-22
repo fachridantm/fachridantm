@@ -6,14 +6,20 @@ I'm an undergraduate student currently in 5th semester with an Informatics major
 
 I have many soft skills and other important qualities which I developed through study, organization, community, and various other experiences through teamwork and collaboration. Communication, leadership, time management, and the ability to complete projects within deadlines, are some of the skills I excel at. In addition, I also have high self-confidence and a high desire to improve myself and learn other new experiences.  
 
-**Core Skills** : Android, Java, Kotlin  
-
+## Tech Stack
+  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
+  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white">
+  <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white">
+  <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
+  <img src="https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg">
+  
 ---
     
-| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fachridantm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="315px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&theme=tokyonight" alt="fachridantm's Most Used Language">
 | ------------- | ------------- |  
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight" alt="fachridantm's Coding Activity">](https://wakatime.com/@fachridantm)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&theme=tokyonight">](https://wakatime.com/@fachridantm)
 | ------------- |
 
 ---
