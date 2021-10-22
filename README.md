@@ -18,6 +18,7 @@ I have many soft skills and other important qualities which I developed through 
 ## 🛠 Tech Stack
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -51,3 +52,7 @@ I have many soft skills and other important qualities which I developed through 
 [![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-Fachridan%20Tio%20Mu%27afa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fachridantm/)](https://www.linkedin.com/in/fachridantm/)&nbsp;
 [![Instagram: fachridantm](https://img.shields.io/badge/-@fachridantm-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachridantm)&nbsp;
 ![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)
+
+---
+
+   <img align="center" src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="Snake">
