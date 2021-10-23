@@ -16,10 +16,10 @@ I have many soft skills and other important qualities which I developed through 
 #### Welcome to my Codepark! 🏡
 
 ## 🛠 Tech Stack
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)&nbsp;
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+  [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/fachridantm/)&nbsp;
+  [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/fachridantm/)&nbsp;
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
@@ -50,8 +50,9 @@ I have many soft skills and other important qualities which I developed through 
 
 [![Email: fachridantm@gmail.com](https://img.shields.io/badge/-fachridantm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fachridantm@gmail.com)
 [![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-Fachridan%20Tio%20Mu%27afa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fachridantm/)](https://www.linkedin.com/in/fachridantm/)&nbsp;
-[![Instagram: fachridantm](https://img.shields.io/badge/-@fachridantm-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachridantm)&nbsp;
-![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)
+[![Instagram: Follow fachridantm](https://img.shields.io/badge/-@fachridantm-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachridantm)&nbsp;
+[![Linktree: fachridantm](https://img.shields.io/badge/-@fachridantm-%2300d15b?style=flat&logo=linktree&logoColor=white&link=https://linktr.ee/fachridantm)](https://linktr.ee/fachridantm)&nbsp;
+[![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)](https://twitter.com/fachridantm)
 
 ---
 
