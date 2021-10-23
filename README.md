@@ -51,7 +51,6 @@ I have many soft skills and other important qualities which I developed through 
 [![Email: fachridantm@gmail.com](https://img.shields.io/badge/-fachridantm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fachridantm@gmail.com)
 [![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-Fachridan%20Tio%20Mu%27afa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fachridantm/)](https://www.linkedin.com/in/fachridantm/)&nbsp;
 [![Instagram: Follow fachridantm](https://img.shields.io/badge/-@fachridantm-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachridantm)&nbsp;
-[![Medium: Follow @fachridantm](https://img.shields.io/badge/-@fachridantm-black?style=flat&logo=Medium&logoColor=white&link=https://fachridantm.medium.com/)](https://fachridantm.medium.com/)&nbsp;
 [![Linktree: fachridantm](https://img.shields.io/badge/-@fachridantm-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/fachridantm)](https://linktr.ee/fachridantm)&nbsp;
 [![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)](https://twitter.com/fachridantm)
 
