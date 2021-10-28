@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-![Version: 23.10.2021](https://img.shields.io/badge/version-23.10.2021-informational)&nbsp;
+![Version: 28.10.2021](https://img.shields.io/badge/version-28.10.2021-informational)&nbsp;
 ![Profile Viewers](https://komarev.com/ghpvc/?username=fachridantm&color=red)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
@@ -25,11 +25,9 @@ I have many soft skills and other important qualities which I developed through 
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
 ## 📊 Top Repositories
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical">](https://github.com/fachridantm/Dicoding-AndroidPemula)
-&nbsp;
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=radical">](https://github.com/fachridantm/Smart-Villager)
+[![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/fachridantm/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/fachridantm/Smart-Villager)
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&show_icons=true&theme=radical">](https://github.com/fachridantm/Asymmetric-Crypto-App)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&show_icons=true&theme=radical)](https://github.com/fachridantm/Asymmetric-Crypto-App)
 
 ## 📈 Github Stats
   
