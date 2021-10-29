@@ -2,8 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-![Version: 28.10.2021](https://img.shields.io/badge/version-28.10.2021-informational)&nbsp;
-![Profile Viewers](https://komarev.com/ghpvc/?username=fachridantm&color=red)&nbsp;
+![Version: 29.10.2021](https://img.shields.io/badge/version-29.10.2021-informational)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
