@@ -26,8 +26,6 @@ I have many soft skills and other important qualities which I developed through 
 ## 📊 Top Repositories
 [![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/fachridantm/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/fachridantm/Smart-Villager)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Asymmetric-Crypto-App&show_icons=true&theme=radical)](https://github.com/fachridantm/Asymmetric-Crypto-App)
-
 ## 📈 Github Stats
   
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fachridantm&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fachridantm&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="fachridantm's Most Used Language">
