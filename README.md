@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-![Version: 25.11.2021](https://img.shields.io/badge/version-25.11.2021-informational)&nbsp;
+![Version: 15.02.2021](https://img.shields.io/badge/version-15.02.2021-informational)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
@@ -47,7 +47,6 @@ I have many soft skills and other important qualities which I developed through 
 [![LinkedIn: Fachridan Tio Mu'afa](https://img.shields.io/badge/-Fachridan%20Tio%20Mu%27afa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fachridantm/)](https://www.linkedin.com/in/fachridantm/)&nbsp;
 [![Instagram: Follow fachridantm](https://img.shields.io/badge/-@fachridantm-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachridantm)&nbsp;
 [![Telegram: fachridantm](https://img.shields.io/badge/-fachridantm-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fachridantm)](https://t.me/fachridantm)&nbsp;
-<!-- [![Google Developer Profile: fachridantm](https://img.shields.io/badge/-fachridantm-grey?style=flat&logo=&logoColor=white&link=https://g.dev/fachridantm)](https://g.dev/fachridantm)&nbsp; -->
 [![Linktree: fachridantm](https://img.shields.io/badge/-@fachridantm-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/fachridantm)](https://linktr.ee/fachridantm)&nbsp;
 [![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)](https://twitter.com/fachridantm)
 
