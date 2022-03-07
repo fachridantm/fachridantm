@@ -48,7 +48,6 @@ I have many soft skills and other important qualities which I developed through 
 [![Telegram: fachridantm](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fachridantm)](https://t.me/fachridantm)&nbsp;
 [![Linktree: fachridantm](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/fachridantm)](https://linktr.ee/fachridantm)&nbsp;
 [![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)](https://twitter.com/fachridantm)
-
 ---
 
 <img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake.svg" alt="Snake">
