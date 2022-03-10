@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-![Version: 07.03.2022](https://img.shields.io/badge/version-07.03.2022-informational)&nbsp;
+![Version: 10.03.2022](https://img.shields.io/badge/version-10.03.2022-informational)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
 
 ### My name is [Fachridan Tio Mu'afa](https://fachridantm.github.io/)
-I'm an _undergraduate student_ at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) currently in 5th semester with an _Informatics_ major and interested in **Mobile Apps Development**.  
+I'm an _undergraduate student_ at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) currently in 6th semester with an _Informatics_ major and interested in **Mobile Apps Development**.  
 
 I have many soft skills and other important qualities which I developed through study, organization, community, and various other experiences through teamwork and collaboration. Communication, leadership, time management, and the ability to complete projects within deadlines, are some of the skills I excel at. In addition, I also have high self-confidence and a high desire to improve myself and learn other new experiences.  
 
