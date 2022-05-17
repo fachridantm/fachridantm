@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-![Version: 10.03.2022](https://img.shields.io/badge/version-10.03.2022-informational)&nbsp;
+![Version: 17.05.2022](https://img.shields.io/badge/version-17.05.2022-informational)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
@@ -23,8 +23,8 @@ I have many soft skills and other important qualities which I developed through 
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
-## 📊 Top Repositories
-[![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/fachridantm/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/fachridantm/Smart-Villager)
+<!-- ## 📊 Top Repositories
+[![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/fachridantm/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/fachridantm/Smart-Villager) -->
 
 ## 📈 Github Stats
   
