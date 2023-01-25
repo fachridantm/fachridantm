@@ -8,7 +8,7 @@
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
 
 ### My name is [Fachridan Tio Mu'afa](https://fachridantm.github.io/)
-An _undergraduate student_ at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) majoring in _Informatics Engineering_ who is interested in **Mobile Development**.  
+An _undergraduate student_ at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) majoring in _Informatics_ who is interested in **Mobile Development**.  
 
 I have experience with Object-Oriented Programming (OOP) in Java since I entered college and certainly have a solid understanding of the fundamental of Java language. I am also currently learning about the Kotlin language and its implementation on Android since I became part of the Android Developer Club. Because of these skills, I was able to get an award as The Best Participant in the Android Developer Club as part of the HIMTI DEV program, organized by HIMTI UIN Jakarta and also can be selected to be 3,100 participants from 63,000 registrants as Mobile Developer (Android) Trainees in Bangkit Academy led by Google, GoTo, Traveloka, & DeepTech Foundation.
 
