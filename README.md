@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-![Version: 25.01.2023](https://img.shields.io/badge/version-25.01.2023-informational)&nbsp;
+![Version: 14.02.2023](https://img.shields.io/badge/version-14.02.2023-informational)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
@@ -41,7 +41,7 @@ Apart from that, I also have good communication, leadership skills, and responsi
 
 ---
 
-![Fachridantm's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fachridantm&hide_border=true&theme=redical)
+<!-- ![Fachridantm's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fachridantm&hide_border=true&theme=redical) -->
 
 ## 🤝🏻 Connect with Me!
 [![Email: fachridantm@gmail.com](https://img.shields.io/badge/-fachridantm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fachridantm@gmail.com)
