@@ -45,4 +45,4 @@
 [![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)](https://twitter.com/fachridantm)
 ---
 
-<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake.svg" alt="Snake">
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
