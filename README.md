@@ -7,14 +7,7 @@
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
 
-### My name is [Fachridan Tio Mu'afa](https://fachridantm.github.io/)
-An _undergraduate student_ at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) majoring in _Informatics_ who is interested in **Mobile Development**.  
-
-I have experience with Object-Oriented Programming (OOP) in Java since I entered college and certainly have a solid understanding of the fundamental of Java language. I am also currently learning about the Kotlin language and its implementation on Android since I became part of the Android Developer Club. Because of these skills, I was able to get an award as The Best Participant in the Android Developer Club as part of the HIMTI DEV program, organized by HIMTI UIN Jakarta and also can be selected to be 3,100 participants from 63,000 registrants as Mobile Developer (Android) Trainees in Bangkit Academy led by Google, GoTo, Traveloka, & DeepTech Foundation.
-
-Apart from that, I also have good communication, leadership skills, and responsibility which have helped me to become a Lead of Google Developer Student Clubs at my university. And all of that can happen because I have high self-confidence and love to improve myself and learn other new experiences.  
-
-#### Welcome to my Codepark! 🏡
+#### Welcome to my [Codepark](https://fachridantm.github.io/)! 🏡
 
 ## 🛠 Tech Stack
   [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
