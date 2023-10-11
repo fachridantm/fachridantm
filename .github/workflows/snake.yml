@@ -12,28 +12,36 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+
 # The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+   generate:
+    permissions: 
+      contents: write
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-    
+      - name: Generate github-contribution-grid-snake.svg
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
       
     # Generates the snake  
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
