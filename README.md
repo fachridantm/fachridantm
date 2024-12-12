@@ -1,11 +1,11 @@
 # Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://fachridantm.github.io/)
 
-![version: 26.12.2023](https://img.shields.io/badge/version-26.12.2023-informational)&nbsp;
+![version: 12.12.2024](https://img.shields.io/badge/version-12.12.2024-informational)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=fachridantm&style=flat&label=visitors)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@fachridantm)&nbsp;
 [![GitHub: fachridantm](https://img.shields.io/github/followers/fachridantm?label=follow&style=social)](https://github.com/fachridantm)&nbsp;
 
-#### Welcome to my [Codepark](https://fachridantm.github.io/)! 🏡
+#### Welcome to my [Codepark](https://fachridantm.me/)! 🏡
 
 ## 🛠 Tech Stack
   [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
